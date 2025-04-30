@@ -22,7 +22,7 @@ Non-parametric statistical methods provide flexibility and robustness for analyz
 
 ### Key Objectives:
 1. Understand the theoretical foundation of non-parametric methods.
-2. Implement algorithms for tasks such as regression, classification, and hypothesis testing.
+2. Implement algorithms for tasks such as classification and hypothesis testing.
 3. Visualize and interpret results to derive meaningful conclusions.
 
 ## Features
@@ -32,7 +32,6 @@ Non-parametric statistical methods provide flexibility and robustness for analyz
   - K-Nearest Neighbors (KNN)
   - Mann-Whitney U Test
   - Kruskal-Wallis H Test
-  - Non-parametric regression techniques (e.g., LOESS, Smoothing Splines)
 - Visualization of results using Python libraries.
 - Analysis of real-world datasets using non-parametric methods.
 - Comparison with parametric counterparts to highlight strengths and weaknesses.
